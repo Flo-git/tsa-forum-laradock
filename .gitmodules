@@ -1,0 +1,6 @@
+[submodule "laradock"]
+	path = laradock
+	url = https://github.com/laradock/laradock.git
+[submodule "tsa-forum"]
+	path = tsa-forum
+	url = https://github.com/Flo-git/tsa-forum.git
